@@ -1,3 +1,3 @@
 # automatic-happiness
-My Reposotory of Happiness !!
+My Repository of Happiness !!
  
